@@ -1,7 +1,5 @@
 ![project](https://img.shields.io/badge/project-github-orange)
-
-## Name: Vikas kumar Taliyan
-
+[Netlify](https://plant-homepage-project.netlify.app/)
 # Plant Homepage.
 Plant homepage project is a part of full-stack developement program by Inueron and I learn a lot from this project.
 
@@ -12,11 +10,12 @@ Plant homepage project is a part of full-stack developement program by Inueron a
 # Time
 I take 4 hours for completing this.
 
-# Screenshot of the project.
-
-![plant homepage](./screenshot/plant.PNG)
-
 # I learn...
 * box model
 * different types of selectors
 * position in css
+
+# Screenshot of the project.
+
+![plant homepage](./screenshot/plant.PNG)
+
